@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Soy un desarollador web y estudiante de último año de Ingeniería Civil en Informática de la Universidad de los Lagos.<br><br>Me gusta la programación, el desarrollo y resolver problemas complejos que requieran de pensamiento critico.<br><br>Para mi es importante usar las tecnologías modernas que dominan el mercado.<br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Soy un desarollador web y estudiante de último año de Ingeniería Civil en Informática de la Universidad de los Lagos.<br><br>Me gusta la programación, el desarrollo y resolver problemas complejos que requieran de pensamiento critico.<br><br>Para mi es importante usar las tecnologías modernas que dominan el mercado.<br>- 🔭 Abierto a ofertas.<br>- 📚 Aprendiendo y consolidando mi carrera.<br>- ⚡ También me gusta la música</p>
 
 ###
 
